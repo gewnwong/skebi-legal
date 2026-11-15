@@ -5,7 +5,7 @@ title: Scheduler Bot Legal
 
 # Scheduler Bot
 
-Welcome to the official legal information page for **[Bot Name]**.
+Welcome to the official legal information page for **Skebi**.
 
 Please review the following documents before using the bot.
 
