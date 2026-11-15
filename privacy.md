@@ -236,14 +236,6 @@ The effective date and last updated date will be revised when material changes a
 
 Continued use of the Bot after an updated Privacy Policy becomes effective constitutes acknowledgment of the updated policy, to the extent permitted by applicable law.
 
-## 12. Contact Information
-
-If you have questions, concerns, or requests regarding this Privacy Policy or the handling of your information, you may contact the developer through:
-
-- **Developer:** Chalkalot (discord)
-
-For data access, correction, or deletion requests, please use the contact information above.
-
 ---
 
 By using the Bot, you acknowledge that you have read this Privacy Policy and understand how information is collected, used, stored, and disclosed.
