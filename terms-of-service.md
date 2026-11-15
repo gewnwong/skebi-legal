@@ -1,3 +1,7 @@
+---
+title: Terms of Service
+---
+
 # Terms of Service
 
 **Last Updated:** November 15, 2026
