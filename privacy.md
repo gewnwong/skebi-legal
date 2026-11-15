@@ -4,7 +4,6 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective Date:** November 15, 2026  
 **Last Updated:** November 15, 2026
 
 This Privacy Policy explains how **Skebi** ("the Bot") collects, uses, stores, and protects information when you interact with the Bot through Discord.
