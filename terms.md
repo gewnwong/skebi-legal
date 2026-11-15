@@ -180,7 +180,7 @@ Your use of the Bot is also governed by its Privacy Policy, which explains what 
 
 The Privacy Policy is available at:
 
-**WIP**
+**https://gewnwong.github.io/Skebi/privacy**
 
 ---
 
